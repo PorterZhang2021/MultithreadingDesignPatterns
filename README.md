@@ -12,4 +12,4 @@ This repository is dedicated to exploring and implementing various multithreadin
 ## Contributing
 Contributions are welcome! If you have an implementation of a multithreading design pattern in a particular language or a new pattern to add, feel free to submit a pull request. Please ensure that your code is well-documented and follows the existing style guidelines.
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
