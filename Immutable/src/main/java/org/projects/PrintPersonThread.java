@@ -1,7 +1,7 @@
 package org.projects;
 
 public class PrintPersonThread extends Thread {
-  private Person person;
+  private final Person person;
 
   public PrintPersonThread(Person person) {
     this.person = person;
