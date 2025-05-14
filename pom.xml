@@ -12,6 +12,7 @@
     <modules>
         <module>Single-Threaded-Execution</module>
         <module>Immutable</module>
+        <module>GuardedSuspension</module>
     </modules>
 
 
