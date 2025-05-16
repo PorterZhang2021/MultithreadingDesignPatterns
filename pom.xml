@@ -13,6 +13,7 @@
         <module>Single-Threaded-Execution</module>
         <module>Immutable</module>
         <module>GuardedSuspension</module>
+        <module>Balking</module>
     </modules>
 
 
