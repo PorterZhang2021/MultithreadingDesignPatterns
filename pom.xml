@@ -14,6 +14,7 @@
         <module>Immutable</module>
         <module>GuardedSuspension</module>
         <module>Balking</module>
+        <module>Producer-Consumer</module>
     </modules>
 
 
