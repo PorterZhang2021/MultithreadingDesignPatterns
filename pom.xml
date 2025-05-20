@@ -15,6 +15,7 @@
         <module>GuardedSuspension</module>
         <module>Balking</module>
         <module>Producer-Consumer</module>
+        <module>ReadWriteLock</module>
     </modules>
 
 
