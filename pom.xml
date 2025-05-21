@@ -16,6 +16,7 @@
         <module>Balking</module>
         <module>Producer-Consumer</module>
         <module>ReadWriteLock</module>
+        <module>ThreadPerMessage</module>
     </modules>
 
 
