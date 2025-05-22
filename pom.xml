@@ -17,6 +17,7 @@
         <module>Producer-Consumer</module>
         <module>ReadWriteLock</module>
         <module>ThreadPerMessage</module>
+        <module>Worker-Thread</module>
     </modules>
 
 
