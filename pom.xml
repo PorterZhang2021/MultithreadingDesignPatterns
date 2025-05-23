@@ -18,6 +18,7 @@
         <module>ReadWriteLock</module>
         <module>ThreadPerMessage</module>
         <module>Worker-Thread</module>
+        <module>Future</module>
     </modules>
 
 
