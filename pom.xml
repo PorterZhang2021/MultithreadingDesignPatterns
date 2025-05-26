@@ -19,6 +19,7 @@
         <module>ThreadPerMessage</module>
         <module>Worker-Thread</module>
         <module>Future</module>
+        <module>TwoPhaseTermination</module>
     </modules>
 
 
