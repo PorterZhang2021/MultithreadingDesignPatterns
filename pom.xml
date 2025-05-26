@@ -20,6 +20,7 @@
         <module>Worker-Thread</module>
         <module>Future</module>
         <module>TwoPhaseTermination</module>
+        <module>ThreadSpecificStorage</module>
     </modules>
 
 
