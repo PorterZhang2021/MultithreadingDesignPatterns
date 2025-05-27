@@ -21,6 +21,7 @@
         <module>Future</module>
         <module>TwoPhaseTermination</module>
         <module>ThreadSpecificStorage</module>
+        <module>ActiveObject</module>
     </modules>
 
 
